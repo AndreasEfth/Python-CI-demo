@@ -5,7 +5,7 @@ Created on Wed Nov  7 12:03:47 2018
 @author: andrease
 """
 
-import unittest 
+import unittest
 from inc_demo import inc
 # import inc
 class MyTest(unittest.TestCase):
